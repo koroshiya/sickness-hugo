@@ -1,0 +1,7 @@
+baseurl = "https://koroshiya.github.io/"
+languageCode = "en-us"
+title = "Sickness Visual Novel"
+[params]
+  mainMenu = ["about", "characters", "screenshots", "download", "credits", "progress"]
+  description = "Official home of Sickness the visual novel"
+  noCategoryLink = "true"

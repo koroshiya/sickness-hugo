@@ -1,0 +1,33 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+  margin: 0;
+}
+p{font-size: 16pt;}
+
+.char_image{
+    border:1px solid white !important;
+    cursor:pointer;
+    max-width:100%;
+}
+.char_image:hover{
+    border:1px solid black !important;
+}
+.char_desc{
+    display:none;
+    font-size:14pt;
+}
+
+.accordion{
+   width:100%;
+}
+.accordion > h3{
+  margin-top: 10px;
+}
+#accordion .content {
+   display:none;
+   padding-left: 10px;
+   padding-right: 10px;
+   border-left: 1px solid black;
+   border-right: 1px solid black;
+}
