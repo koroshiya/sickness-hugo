@@ -1,4 +1,4 @@
-baseurl = "https://koroshiya.github.io/"
+baseurl = "https://koroshiya.github.io"
 languageCode = "en-us"
 title = "Sickness Visual Novel"
 [params]
