@@ -1,6 +1,5 @@
 +++
 date = "2015-12-21T13:54:06+11:00"
-draft = true
 keywords = "sickness, vn, visual novel, kinetic novel, digital novel, dating sim"
 icon = "favicon.png"
 title = "index"

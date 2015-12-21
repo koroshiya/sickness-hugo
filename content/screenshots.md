@@ -1,6 +1,5 @@
 +++
 date = "2015-12-10T15:53:24+11:00"
-draft = true
 title = "In-Game Screenshots"
 
 +++

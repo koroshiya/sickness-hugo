@@ -1,6 +1,5 @@
 +++
 date = "2015-12-10T16:03:01+11:00"
-draft = true
 title = "About Sickness"
 
 +++
