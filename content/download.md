@@ -6,10 +6,11 @@ title = "Download"
 
 ### Full game
 
-Sickness is currently aiming for a Jan 17th 2016 release.
+Sickness is currently aiming for a Jan 20th 2016 release.
 
 ### Demo
 
 The demo covers the first 5 chapters (26.5k words) of Sickness.
-It is available for download on Windows/OSX/Linux here: https://drive.google.com/file/d/0B-EZoZJIOeERMnYtWG5aWDZ2M3M/view?usp=sharing
-And for Android here: https://docs.google.com/uc?id=0B-EZoZJIOeERZEY4ZW4wQkNHb0U&export=download
+It is available for download on Steam: http://store.steampowered.com/app/431420/
+Windows/OSX/Linux: https://docs.google.com/uc?id=0B-EZoZJIOeEReVk2ck1oQ3ZuVUU&export=download
+And Android: https://docs.google.com/uc?id=0B-EZoZJIOeERTS1TeWgxTFI4Tmc&export=download
